@@ -1,1 +1,3 @@
 # QuantificationCoverageIntensityMIP_MulticolorStacks
+
+Attention, dans ce code on a récupéré une partie du code fait par Victor Racine (via QuantaCell), je ne sais pas comment il faut l'annoncer et si on a le droit tout court...
